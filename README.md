@@ -19,7 +19,7 @@
 
 
 ## Contact
-Created by [@Vedakashyap7] - feel free to contact me!
+Created by [@nikhil-aivalli] - feel free to contact me!
 
 
 <!-- Optional -->
