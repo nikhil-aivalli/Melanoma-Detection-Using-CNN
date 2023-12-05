@@ -19,7 +19,7 @@
 
 
 ## Contact
-Created by [https://github.com/nikhil-aivalli] - feel free to contact me!
+Created by https://github.com/nikhil-aivalli - feel free to contact me!
 
 
 <!-- Optional -->
